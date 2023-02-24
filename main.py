@@ -17,7 +17,7 @@ MDScreen:
         hint_text: "Search Here"
         helper_text: "EEE-Day"
         mode: "round"
-        max_text_length: 15
+        max_text_length: 50
         pos_hint:{'center_x':0.5, 'center_y': 0.8}
         helper_text_mode: "on_focus"
         
